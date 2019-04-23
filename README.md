@@ -1,4 +1,5 @@
-faire 
+Etapes à suire : 
+npm i node-modules
 npm i express
 npm i socket.io 
-et start l'appli avec node server.js
+puis démarrer l'application dans le terminal avec node server.js
